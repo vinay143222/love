@@ -1,0 +1,43 @@
+    #title {
+        padding: 15% 15%;
+        text-align: center;
+    }
+    
+    input {
+        padding: 10px;
+        margin: 13px;
+        background-color: black;
+        color: white;
+    }
+    
+    #button_1 {
+        display: inline-block;
+        margin-top: 20px;
+        width: auto;
+        text-align: center;
+        color: white;
+        background-color: #ac0d0d;
+        border: none;
+    }
+    
+    #button_1:hover {
+        transform: scale(1.5);
+        transition: transform ease-in-out 1s;
+    }
+    
+    body {
+        background: url(https://i.pinimg.com/originals/6b/40/c3/6b40c3b6af8ebf4238f79898247d1d65.jpg);
+        background-repeat: none;
+        background-size: cover;
+        background-attachment: scroll;
+        overflow-x: hidden;
+    }
+    
+    .container {
+        margin-top: 200px;
+    }
+    
+    #header {
+        color: black;
+        box-shadow: 10px white;
+    }
